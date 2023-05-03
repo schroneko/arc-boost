@@ -1,0 +1,17 @@
+{
+  "name": "Hide Info for ChatGPT",
+  "description": "",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.chat.openai.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "permissions": []
+}

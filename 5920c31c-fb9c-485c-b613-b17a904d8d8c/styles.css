@@ -1,0 +1,8 @@
+.navbar--fixed-top {
+  position: static !important;
+}
+
+.is-fixed,
+.theiaStickySidebar {
+  position: absolute !important;
+}

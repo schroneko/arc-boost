@@ -1,0 +1,9 @@
+[class*="frontend-components-SubscribePrompt-module__background--"],
+[class*="frontend-components-SubscribePrompt-module__subscribeDialog--"]
+{
+  display: none !important;
+}
+
+.main-menu-content {
+  position: absolute !important;
+}

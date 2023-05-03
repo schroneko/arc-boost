@@ -1,0 +1,11 @@
+#extra {
+  display: none !important;
+}
+
+body #global-nav > div {
+  position: absolute !important;
+}
+
+#main {
+  width: auto !important;
+}

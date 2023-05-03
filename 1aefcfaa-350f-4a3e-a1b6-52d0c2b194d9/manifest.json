@@ -1,0 +1,17 @@
+{
+  "name": "deeplearning.ai",
+  "description": "",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.lab-aws-production.deeplearning.ai/*"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ],
+  "permissions": []
+}

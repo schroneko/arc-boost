@@ -1,0 +1,15 @@
+aside {
+  display: none !important;
+}
+
+#WikiaBar {
+  display: none !important;
+}
+
+.page-side-tools {
+  display: none !important;
+}
+
+.fandom-sticky-header {
+  position: absolute !important;
+}

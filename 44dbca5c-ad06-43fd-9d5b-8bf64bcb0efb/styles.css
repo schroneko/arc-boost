@@ -1,0 +1,22 @@
+#globalheader-container {
+  /* position: absolute !important; */
+  display: none !important;
+}
+
+#box2 {
+  width: auto !important;
+  max-width: none !important;
+}
+
+#content-inner {
+  width: auto !important;
+  display: block !important;
+}
+
+#wrapper {
+  max-width: none !important;
+}
+
+#main {
+  padding: 0 !important;
+}

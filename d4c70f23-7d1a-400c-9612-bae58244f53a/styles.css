@@ -1,0 +1,24 @@
+div.deck-header.d-none.d-md-block.js-toggle-container {
+  display: none !important;
+}
+
+div.alert.alert-banner {
+  display: none;
+}
+
+iframe.speakerdeck-iframe {
+  width: 100% !important;
+}
+
+div.deck-embed {
+  width: auto !important;
+}
+
+div.deck-with-banner {
+  height: auto;
+  display: block;
+}
+
+div.speakerdeck-embed-wrapper {
+  height: 100%;
+}
