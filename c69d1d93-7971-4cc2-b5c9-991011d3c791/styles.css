@@ -1,0 +1,11 @@
+#root > div > div.l.c > div.ca.cb.l > div > div {
+  display: none !important;
+}
+
+#root > div > div.l.c > div.ca.cb.l > div > main > div > div.m.ov.ab.cm {
+  display: none !important;
+}
+
+#root > div > div.l.c > div.l.m.n.o.c {
+  position: static !important;
+}

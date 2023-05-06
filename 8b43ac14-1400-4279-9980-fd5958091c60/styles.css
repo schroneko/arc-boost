@@ -1,0 +1,3 @@
+#chatgptbox-container > div > div > div.markdown-body {
+  max-height: none !important;
+}

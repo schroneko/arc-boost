@@ -1,11 +1,16 @@
-#extra {
+#article > header {
   display: none !important;
 }
 
-body #global-nav > div {
-  position: absolute !important;
+#page-wrap {
+  padding-top: 0 !important;
 }
 
 #main {
   width: auto !important;
+  float: none !important;
+}
+
+aside {
+  display: none !important;
 }

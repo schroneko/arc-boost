@@ -1,11 +1,11 @@
 {
-  "name": "hateblo",
+  "name": "Medium",
   "version": "0.0.1",
   "manifest_version": 3,
   "content_scripts": [
     {
       "matches": [
-        "*://*.hateblo.jp/*"
+        "<all_urls>"
       ],
       "css": [
         "styles.css"

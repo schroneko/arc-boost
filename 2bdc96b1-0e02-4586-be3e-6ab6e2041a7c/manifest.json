@@ -1,11 +1,12 @@
 {
-  "name": "hatenablog",
+  "name": "Hatena",
+  "description": "",
   "version": "0.0.1",
   "manifest_version": 3,
   "content_scripts": [
     {
       "matches": [
-        "*://*.hatenablog.com/*"
+        "<all_urls>"
       ],
       "css": [
         "styles.css"
