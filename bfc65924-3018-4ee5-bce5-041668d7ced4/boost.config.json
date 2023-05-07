@@ -1,0 +1,21 @@
+{
+  "extensionEnabled" : true,
+  "pinned" : false,
+  "name" : "Gumroad",
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "extensionId" : "pndifgifbbpkoaoadcaolhaoafhbjkla",
+  "id" : "bfc65924-3018-4ee5-bce5-041668d7ced4",
+  "scope" : "gumroad.com",
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  }
+}

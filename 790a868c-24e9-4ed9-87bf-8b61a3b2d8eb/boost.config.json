@@ -1,0 +1,21 @@
+{
+  "extensionEnabled" : true,
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "id" : "790a868c-24e9-4ed9-87bf-8b61a3b2d8eb",
+  "extensionId" : "geklieekbehioklhpohgflggmjfodoba",
+  "name" : "Substack",
+  "pinned" : false,
+  "scope" : "substack.com",
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ]
+}

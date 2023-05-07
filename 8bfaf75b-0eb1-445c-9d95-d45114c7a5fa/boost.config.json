@@ -1,0 +1,21 @@
+{
+  "extensionId" : "mklahnjglgcbdaooenegofccnijjfmdk",
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "extensionEnabled" : true,
+  "pinned" : false,
+  "id" : "8bfaf75b-0eb1-445c-9d95-d45114c7a5fa",
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "scope" : "watch.impress.co.jp",
+  "name" : "Impress"
+}

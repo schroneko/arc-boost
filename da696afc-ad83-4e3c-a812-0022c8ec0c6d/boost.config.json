@@ -1,0 +1,21 @@
+{
+  "extensionEnabled" : true,
+  "name" : "Hatena",
+  "extensionId" : "jdhfmpimfiackfbdjgpfjhdfcnkafidk",
+  "scope" : "",
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "pinned" : false,
+  "id" : "da696afc-ad83-4e3c-a812-0022c8ec0c6d"
+}

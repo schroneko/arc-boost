@@ -1,0 +1,17 @@
+{
+  "name": "Notion",
+  "description": "",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.notion.site/*"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ],
+  "permissions": []
+}

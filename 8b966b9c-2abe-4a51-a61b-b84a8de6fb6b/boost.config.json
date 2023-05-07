@@ -1,0 +1,21 @@
+{
+  "scope" : "notion.site",
+  "extensionId" : "fiefbhekilllmamcpadbedkdbbkhmjoi",
+  "id" : "8b966b9c-2abe-4a51-a61b-b84a8de6fb6b",
+  "pinned" : false,
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "extensionEnabled" : true,
+  "name" : "Notion"
+}

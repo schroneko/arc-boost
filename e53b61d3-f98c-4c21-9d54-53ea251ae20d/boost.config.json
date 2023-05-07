@@ -1,0 +1,21 @@
+{
+  "extensionEnabled" : true,
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "id" : "e53b61d3-f98c-4c21-9d54-53ea251ae20d",
+  "extensionId" : "efpnlbkjcoeoddpbdcnkhkplpneceoej",
+  "name" : "Cookie",
+  "pinned" : false,
+  "scope" : "",
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ]
+}

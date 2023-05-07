@@ -1,0 +1,21 @@
+{
+  "pinned" : false,
+  "name" : "SpeakerDeck",
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "id" : "edca9a14-c8e7-4f62-90be-d12598a67421",
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "extensionId" : "ncpkmkbelpjjmojkpldnkjndjfnkcflo",
+  "extensionEnabled" : true,
+  "scope" : "speakerdeck.com"
+}

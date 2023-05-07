@@ -1,0 +1,21 @@
+{
+  "scope" : "",
+  "extensionId" : "mecelcdlcofhhniknncoonpijjpfggoa",
+  "id" : "4a0e4ee1-7011-4f96-a7ec-717a7036a4fa",
+  "pinned" : false,
+  "components" : {
+    "contentScript" : {
+      "path" : "content.js",
+      "enabled" : true
+    }
+  },
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "extensionEnabled" : true,
+  "name" : "PDF"
+}

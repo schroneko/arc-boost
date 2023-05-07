@@ -1,7 +1,0 @@
-#credential_picker_container {
-  display: none !important;
-}
-
-[aria-labelledby="cta-modal-header"] {
-  display: none !important;
-}

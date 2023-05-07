@@ -1,0 +1,21 @@
+{
+  "components" : {
+    "contentStylesheet" : {
+      "path" : "styles.css",
+      "enabled" : true
+    }
+  },
+  "id" : "1bde5174-9fa6-4721-9201-48c825e10f71",
+  "name" : "Fandom",
+  "extensionEnabled" : true,
+  "scope" : "www.fandom.com",
+  "extensionId" : "mfedafkbfmbnpfjpphddgbobejkeafac",
+  "pinned" : false,
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pinned" : false,
+  "installedInProfiles" : [
+    {
+      "default" : {
+
+      }
+    }
+  ],
+  "extensionId" : "mbkipnapmepjkgcihofanhamfbbckcmm",
+  "name" : "VIDEO",
+  "components" : {
+    "contentScript" : {
+      "path" : "content.js",
+      "enabled" : true
+    }
+  },
+  "extensionEnabled" : true,
+  "scope" : "",
+  "id" : "007ec90a-f50b-477c-b920-df11e1bf2d8e"
+}
